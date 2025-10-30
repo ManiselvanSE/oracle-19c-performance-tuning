@@ -34,16 +34,6 @@ This repository contains a comprehensive collection of **Oracle Database 19c** S
 
 ---
 
-## 🧠 Diagnostic Flow
-
-The below flowchart provides a step-by-step process for identifying and resolving performance issues:
-
-📊 **Flowchart:** [Oracle Performance Diagnostic Flow (PDF)](docs/oracle_tuning_summary_with_flowchart.pdf)
-
-![Flowchart Preview](docs/oracle_tuning_summary_with_flowchart.png)
-
----
-
 ## ⚙️ Usage
 
 ### 1️⃣ Connect to SQL*Plus
